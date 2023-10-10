@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c28fcd6e-ee7d-442a-bfa8-74797779cd3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Reto #0 - EL FAMOSO FIZZ BUZZ [Fácil]/Ejercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Reto #0 - EL FAMOSO FIZZ BUZZ [Fácil]/Ejercicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bash/alevil8022.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bash/jimmyprofe.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/Alfredoborja.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/CaSaLa.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/DevGax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/Guillermoqnk.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/IDandT.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/IvanHernandezHe.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/Johnnpg.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/JonAFernan.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/Light780.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/Nu11Pointer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/OwboxAl3x.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/Sejusa.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/TheGamer406.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/andresrdiazc.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/armandojrojasm.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/borazuwarah.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/codigocaballer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/iggict.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/jacunar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/jheredianet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/kristiancdev.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/mcelestec.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/mchocho99.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/miguelex.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/momboz12.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/osmoralv.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/pedrovr89.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/rgisbert.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/rixda.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/salaguna.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/sebastorresdev.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c#/wakicode.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/6d61726b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/AlvaroBishop.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/FernandoMauro.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/Jorgego30.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/LokiSchiffer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/PabloGradolph.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/adrigrillo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/diegomm27.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/josevalver.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/m4urlclo0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/mjordanaam.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/nlarrea.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/parequena.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c++/pyramsd.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/Herzogs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/OnlyAlec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/asdewar.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/fegorama.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/fersdt.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/kyrex23.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/raddock360.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/sproods.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/theandihaller.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clojure/jorgediazjr.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/AnzurezDev.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/RobTov.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/evepy.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/gschlaen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/jjony-dev.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/martinromeroxyz.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/mjordanaam.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/thegera4.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/titoworlddev.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir/boterop.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/Akihiro93.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/DarcoProgramador.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/anita-87.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/blackriper.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/jeanpool22.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/joseangelmm.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/lombervid.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/luryon.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/martin-1101.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/miguelex.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/thiagomowszet.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groovy/chintoz.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-js/gizelads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-js/pachulujambio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-js/ricardozm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/AlejandroRS10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Alvarogtz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/AnzurezDev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/BertoMP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/CarlosDiamon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Closure13k.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/EspinoLeandroo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Franckdot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Genetrium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Herzogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/JaumeViBU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Jesusmartinez.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/LokiSchiffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Markveloper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/MrHarvyson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/MrMatiz2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Nahueld97.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Nameless-react.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/PilarMassL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Puni2007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Qv1ko.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Sebastian01973.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/aitorevi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/alexbm98.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/amartellram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/andresdrew33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/aronracso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/asjordi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/avillaq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bramenn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/camilaspt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/carSneider99.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cflorezp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/codigocaballer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ctagadev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/dancorrdev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/dreyg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/erosiim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/gbacoding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/iago1905.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/icedrek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/igrios1979" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ilmanamudi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jacj14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jaennova.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jardilam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jd-ap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jduquinones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jesus-borja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jesusWay69.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jimmyprofe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jitos_dev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/jorgenavarroenamoradotokio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/josepmonclus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/josevalver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/kaigue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lesv9604.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/macor003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/mariabarrilero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/mchocho99.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/mdimassimo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/mendibox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/miguelex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/migueltortg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/mjordanaam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/mmedina23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/noorthex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/peenyaa7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/raclosdev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/rearalf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/rgzodiac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/santiw01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/saraqp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/sergiolpzgmz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/sntxDev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/terciodemarte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/vandresca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/vijes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/ycanas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/ACahuiche.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/AlejandroFuentesGomez.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/AlinaBernardez.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/AlvaroBishop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/AnzurezDev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Arian1192.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Averizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Colo-Codes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/DanielFCre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/DianRH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/DiegoSHS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/EdGonzz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/EduardoJMM05.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/EmaPaul.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Enoch454.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/FabianCristancho.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/GarciaLozano.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/JesusAlbornoz29.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Joakoq12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/JorgeToT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Kronomio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Krypter93.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Lemito66.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/LilyMilano.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/LokiSchiffer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/LuckRodry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/MiguelBarcelo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Nameless-react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Pancratzia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/PauDevelop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/PieroDev23.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Pratchetman.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Qv1ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Raul1551.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/RaulGamBalonga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Rcobin234.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/RobTov.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Robindev1812.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/RoheOo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/Tanamachii.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/TheFabi8A.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/XSATUX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/YgriegaSB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/abanoj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/adriantxupisi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/agustim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/agustinalonsocantoli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/alanrodrigojuarez.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/aldogodoy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/alejandro-cardozo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/almarro1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/antonioortizdev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/arnodchirivi08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/braianv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/breativo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/broscrDev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/cesar-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/cesarhdezlopez97.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/constanedes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/daldev14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/dancorrdev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/danher0310.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/danimarin24.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/devfaultcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/diefernandez.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/diegomardev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/dieramirezma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/edu2122.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/eduerpj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/ernestoalbarez.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/facurs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/facusole.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/florencia-cames.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/frankmdev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/gersancabo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/giovanyosorio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/godidev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/guabisabidev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/guido2288.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/hogan26.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/imSalsaverde.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/inanocs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/ireneArenas14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/javiCordo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/jdcarrillor-unal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/jesusSan1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/jhonnymosquera.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/jizquierdoh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/jmedinac1987.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/jnieves64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/johnnatanv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/jonanv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/joncru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/joseptarrestoneu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/joshArfDev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/julenf14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/kehos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/keys4dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/lPassword012.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/lkguevara.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/m1l0j05.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/marcode24.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/mariovelascodev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/matuumdq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/mchocho99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/meidencore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/mfriascos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/miguelex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/mjordanaam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/mmoralheredia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/mogurimogu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/moragacomar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/nbcharro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/nlarrea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/nneshz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/noel-lopez.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/nrdevpy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/p4rzivalDev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/pepegonzale.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/percyc0de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/piyunior.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/plata-wagner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/ppavez.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/rafaroldan93.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/rafasanabria1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/raulg91.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/rgisbert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/rogmovi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/samuelArandia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/sandybierhoff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/saragarrofe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/swbatallas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/test0n3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/veromarpe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/vishowsky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/wapastorv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/AdrianNieton.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/Anynou.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/DG4MES.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/Daniel-Cas.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/IsmaelMatiz.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/JSilvaH.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/RO-MP.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/SacrilegeTx.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/castorfaener.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/hgarciaalberto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/icedrek.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/ivancordonm.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/jaennova.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/jaimefere.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/joaki-rivero.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/josavicente.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/josethAriel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/juagosin.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/malopezrom.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/marchdz.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/marcos-ortiz-osca.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/masdos.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/melegit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/miguelex.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/mouredev.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/nlarrea.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/pisanowp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/robepe.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/roswer13.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/steepsalvadorman.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/westwbn.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua/Jerec4str0.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua/mhliebano.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl/joaquinferrero.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/AnzurezDev.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/almonteagudor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/antonionav.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/bianqui149.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/cmayadev.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/csc32.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/danher0310.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/esvinambrocio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/javierfs94.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/joseflorez.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/kevocde.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/kodenook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/kodingrick.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/lombervid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/luislazcano.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/miguelex.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/mikebgdev.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/omgslinux.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/patricioleono.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/pepeju1995.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/perezmon77.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/stv-beep.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/powershell/jdcarrillor-unal.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/powershell/ljcanales.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/1nc0gn1t0guy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/3cko0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Akihiro93.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/AlioncaDevelopment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/AlvaroBishop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/AlvaroDLR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/AmayaPerez.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/AnaMJP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/AndreSC1218.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/AntuBoccalandro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/AnzurezDev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/BertoMP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Bombkid85.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Bryan112094.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/BryanAlzate007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/CecilioMP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ChemaGomez.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ChrisJosJC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ChristianArgue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/CubanK.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/DAK0H.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/DCRael.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/DamonCDB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Danielitomx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/DarkPro2102.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/DavidSepulvedaCh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/DylanMR08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/EADQ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ElBauti.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Engleonardorm7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/EspinoLeandroo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/FerPicado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Fernandd0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/FrancoCarrillo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/HypnoticX11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JABoc87.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JAHN77.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JAdraz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JETC2001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JIMTA22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Joelexor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JorgeHdzRiv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Jorgego30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JoseAntonioRuizGarcia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JoseMHU.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JuanbaCGC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/JulianTM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/KMBMarcos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/KennetCastro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/KevinED11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/LakerGarcia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Landaluce96.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Lemito66.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/LokiSchiffer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/MariusBD.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Michelzxc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/MrFork27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Nameless-react.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Oskitar_Ale.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/PabloGradolph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Pablovv72.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/PedroOrtix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/PichiCoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Prado910.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/RHarlock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/RiveroDev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/RobTov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/SantiALS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ShinMugenNoKabe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Slindex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/The-Asintota.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/TheMartuu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Tobiasgallo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/TomasLencina.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Valver91.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Zebenpixel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/aalvaropc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/adrianlazaro8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/akaidmaru.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/alberba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/albertferre.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/alecaserez.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/alvaruncio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/anamumaq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/answet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/apolo112.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/asierdev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/avilesxd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/belenHB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/blancowilson.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/bramenn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/breakingpitt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/breativo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/broscrDev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/callmeGustavo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/calmaoserran.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/casaenobras.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/casaisa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ccobando66.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/cdnexx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/cesar-ch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/chalonov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/chris-naibaf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/chuanmi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/constanedes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/coolbender.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/danher0310.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/darubiano.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/davibern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/diefernandez.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/diezalapi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/diondoge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/dubcl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/egcdark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/emmanuelAlcaraz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/erickhego.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ernestoalbarez.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/facurs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/fedecoronado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/felipenico.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/fidelysla.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/fjgonzalezbarea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/franxav79.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/fundalab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/gastonleegstra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/gbayo7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/gonsomito.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/hectorvalman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/hernanes338.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/hogan26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/hugovrc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/hyldegar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/iTzBigPerrito.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/iago1905.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ignafuentes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ioai2610.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jaliagag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jbodi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jcdm60.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jdcarrillor-unal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jfgracia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jkazulyblanco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jlcontini.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jmanwel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jmiguelmangas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jonatandms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jorgea_hn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jorgearmas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/joselatines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/josemerino1984.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/josethh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/josevalver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jparadadev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jpirulo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/jrest01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/julianAO2002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/k3nvd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/keys4dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/klimyflorez.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/klyone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/kodingrick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/kristiancdev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/lagunesp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/lcorream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/leo-cerdan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/lesclaz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/lucianodlf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/lufranbeco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/m1l0j05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/majinka10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/malhu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/marcoatrs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/marcohc79.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/martin-aq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/martinqr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mejor0108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/menech.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mfriascos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/miguelRdgzBu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/miguelex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/miguelmillones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mjordanaam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mouredev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/nahuelguirao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/nestorlg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/nftorres.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/nicolasrodcam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/nicoodiaz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/nlarrea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/noel-lopez.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/opibl1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/orazioc17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/pahoalapizco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/pardoblanco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/pyRamsd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/rafaelramirez150.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/rafaelramireza.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/rafaroldan93.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/rgisbert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/rianojnicolas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ricardomazuera.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/rimega92.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ronaldrengifob.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ronnyg2121.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ronnyycl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/salvaruiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/sanzcarlos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/sarismejiasanchez.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/saurivane.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/savp03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/sebastian01973.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/secuaz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/sergioprzm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/squezada.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/sublian.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/sugus-labs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/varo6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/xavier-ig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/ycanas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/yorbimv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/r/chalonov.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/r/davibern.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raku/joaquinferrero.raku" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/Colo-Codes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/aldrinmartoq.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/ernestoalbarez.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/test0n3.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/tinix.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/CarlosEduardoL.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/carandev.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/csc32.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/deimoshall.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/lombervid.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/rafaroldan93.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/regalk.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/sugus-labs.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/vbayarri.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/BraisCabo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/Dmmop.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/rianojnicolas.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/darubiano.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/andressbolivarr.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/cristhianleonli.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/fjvgallego.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/gg10.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/jaimefere.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/jsanzdev.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/juanjoseen.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/mouredev.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/roberto-be.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/usabalza.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/Arian1192.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/Aspir-ina.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/GerardoRosas.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/Hideikey.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/Jesusmartinez.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/JvegaG.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/KevinED11.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/Mod8124.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/RobTov.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/SamsarDev.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/albamariana.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/albertovf.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/alioncadevelopment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/angelograngetto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/cesar-ch.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/constanedes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/freddoOswaldo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/gefermanpernia.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/gilgonzalez.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/jesubohr.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/jizquierdoh.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/juanxo13597.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/leobalbastro.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/malopezrom.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/miguelriosoliveira.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/nicodav28.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/nrdevpy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/santiw01.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/tonicodev.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/zerchito.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbscript/arielposada.vbs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WaDNEMhYaeA4U1511N9Bd465pZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/laura/retos-programacion-2023/Retos/Reto #1 - EL LENGUAJE HACKER [Fácil]",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laura\retos-programacion-2023\Retos\Reto #1 - EL LENGUAJE HACKER [Fácil]\.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c28fcd6e-ee7d-442a-bfa8-74797779cd3a" name="Changes" comment="" />
+      <created>1696961754322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696961754322</updated>
+      <workItem from="1696961755325" duration="569000" />
+      <workItem from="1696962347574" duration="551000" />
+      <workItem from="1696962933755" duration="1401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
